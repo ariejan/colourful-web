@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     haml (3.1.6)
-    rack (1.4.1)
+    rack (1.6.13)
     rack-protection (1.2.0)
       rack
     serialport (1.1.0)
